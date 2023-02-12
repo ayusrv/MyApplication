@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Applicatio</string>
+    <string name="Box_one">Box One</string>
+    <string name="Box_two">Box Two</string>
+    <string name="Box_three">Box Three</string>
+    <string name="Box_four">Box Four</string>
+    <string name="Box_five">Box Five</string>
+
+    <string name="button_green">Green</string>
+    <string name="button_red">Red</string>
+    <string name="button_yellow">Yellow</string>
+</resources>
